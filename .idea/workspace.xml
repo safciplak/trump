@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0654e5af-4976-4b26-8f47-576ed8609e33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/banner/copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/banner/telegram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/banner/x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/banner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/banner.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/common/copy-ca.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/common/copy-ca.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/common/text/big-text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/common/text/big-text.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/sections/section-1/links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/sections/section-1/links.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/[locale]/urls.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/urls.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +27,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2jElQAQN3feSKC1G3GzI2O2fL1b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720960098566</updated>
-      <workItem from="1720960099918" duration="8198000" />
+      <workItem from="1720960099918" duration="8372000" />
     </task>
     <servers />
   </component>

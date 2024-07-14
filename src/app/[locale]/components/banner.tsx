@@ -12,7 +12,6 @@ import {BigText} from "./common/text/big-text";
 import {CopyCa} from "./common/copy-ca";
 
 const imgClass = "cursor-pointer mb-4 w-44 md:mb-0 lg:w-56";
-
 export const Banner = (props: any) => {
   const [showBanner, setShowBanner] = useState(true);
 
