@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0654e5af-4976-4b26-8f47-576ed8609e33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/banner/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/banner/telegram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/banner/x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/banner.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/banner.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/common/copy-ca.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/common/copy-ca.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/common/text/big-text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/common/text/big-text.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[locale]/components/sections/section-1/links.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/components/sections/section-1/links.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[locale]/urls.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[locale]/urls.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2jElQAQN3feSKC1G3GzI2O2fL1b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="eu.ydp.idea.ts.spec.generator.settings.spec.template" value="import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';&#10;&#10;describe('$ClassName$', () =&gt; {&#10;  let $ObjName$:$ClassName$;&#10;&#10;  beforeEach(() =&gt; {&#10;    $ObjName$ = new $ClassName$();&#10;  });&#10;&#10;  describe('', () =&gt; {&#10;    it('', () =&gt; {&#10;      // given&#10;&#10;      // when&#10;&#10;      // then&#10;    });&#10;  });&#10;});&#10;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/banner" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/banner" />
+      <recent name="$PROJECT_DIR$/public/common" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/banner" />
+      <recent name="$PROJECT_DIR$/src/app/[locale]/components/sections/section-1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0654e5af-4976-4b26-8f47-576ed8609e33" name="Default Changelist" comment="" />
+      <created>1720960098566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720960098566</updated>
+      <workItem from="1720960099918" duration="8198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
