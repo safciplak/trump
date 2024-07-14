@@ -1,6 +1,6 @@
 import { PublicKey } from "@solana/web3.js";
 
-export const CA = "7Cga2epeJMhte3j74ekEBRMBDn2nRKcgFBrEggSC99fk";
+export const CA = "safak1";
 
 export const TELEGRAM = "https://t.me/+gND9zFlYJA4wM2Jk";
 export const TWITTER = "https://x.com/trumpwinear";
