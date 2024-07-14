@@ -6,7 +6,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 export const metadata: Metadata = {
   title: "TRUMP",
-  description: "SMOKING & BEARING",
+  description: "TRUMP EAR WIN",
 };
 
 const PermanentMarker = Permanent_Marker({
